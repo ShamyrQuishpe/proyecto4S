@@ -1,0 +1,11 @@
+{
+    "reports": [
+        {
+            "id" : "1",
+            "raza" : "mestizo",
+            "ciudad" : "Quito",
+            "fecha" : "05-06-2024",
+            "tipo" : "abandono"
+        }
+    ]
+}
