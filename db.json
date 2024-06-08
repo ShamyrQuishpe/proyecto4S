@@ -1,11 +1,18 @@
 {
-    "reports": [
-        {
-            "id" : "1",
-            "raza" : "mestizo",
-            "ciudad" : "Quito",
-            "fecha" : "05-06-2024",
-            "tipo" : "abandono"
-        }
-    ]
+  "reports": [
+    {
+      "id": "1",
+      "raza": "mestizo",
+      "ciudad": "Quito",
+      "fecha": "05-06-2024",
+      "tipo": "abandono"
+    },
+    {
+      "id": "ae91bac3-4fd9-4cd8-8c33-b39b24181369",
+      "raza": "pitbull",
+      "ciudad": "Cuenca",
+      "fecha": "07-06-2024",
+      "tipo": "maltrato"
+    }
+  ]
 }
